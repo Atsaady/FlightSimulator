@@ -1,6 +1,6 @@
 # Flight Simulator Control 
 
-[![Presentation Project](/uml/example.png)](https://youtu.be/rWe9220DOY8)
+[![Presentation Project](/uml/example.png)](https://bbbbbbbbbbbbbbbbbbbbbb)
 
 Press on the photo so see a video of the project.
 
@@ -216,4 +216,4 @@ This is done by the Observer Pattern, which binds the different components toget
 
 
 ## Authors
-* **Or Levi** - [LinkedIn](https://www.linkedin.com/in/orlevi13/) & **Eden Shtein** - [LinkedIn](https://www.linkedin.com/in/edenshtein/)
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
