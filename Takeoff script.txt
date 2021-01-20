@@ -8,7 +8,7 @@ sleep 400
 print start
 print a
 while a-alt > minus*50 {
-rudder = (h-heading)/20
+rudder = (h-heading)/50
 aileron = minus * roll / 70
 elevator = pitch / 50
 print alt
