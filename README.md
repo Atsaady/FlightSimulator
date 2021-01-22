@@ -1,12 +1,3 @@
-# Flight Simulator Control 
-
-[![Presentation Project](/uml/example.png)](https://bbbbbbbbbbbbbbbbbbbbbb)
-
-Press on the photo so see a video of the project.
-
-This is a project we developed during our advanced software programming course in our 2nd year.
-This project helped us to gain a higher level of knowledge in programming, with emphasis on design patterns and programming principles such as SOLID and GRASP, and finally developing our own JavaFX desktop application.
-
 ## Server
 
 In this section we wrote a general server, which can be used over and over again in various projects.
@@ -54,8 +45,6 @@ We created the ```CacheManager``` interface to manage the cache for us, with the
 * Saves the solution for the problem.
 
 ## UML
-
-![ServerClient Java UML](/project_uml.png "ServerClient Java UML")
 
 ### Our Concerete Server
 Given a graph, it could solve it using [A-star](https://en.wikipedia.org/wiki/A*_search_algorithm) algorithm ( which is already implemented in this project based on djkistra algorithm using manhattan distances ) or any other search algorithm.
@@ -209,11 +198,5 @@ This is done by the Observer Pattern, which binds the different components toget
         });
 ```
 
-## Built With
-
-* [Eclipse](https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) - Java IDE
-* [Scene Builder](https://gluonhq.com/products/scene-builder/)  - Scene Builder 8.5.0
-
-
 ## Authors
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+Maor Agai, Arik Saadi
